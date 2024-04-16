@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @risc-uncle
+- 👀 I’m interested in risc
